@@ -1,0 +1,15 @@
+Layer: 24, Pooling: last_token
+Samples: 75, Features: 4096
+Success count: 46, Fail count: 29
+CV accuracy: 0.7200 ¡À 0.1147
+Top 10 correlation features (abs):
+  Feature 917: 0.5714
+  Feature 2184: -0.5699
+  Feature 1983: 0.5688
+  Feature 1999: -0.5682
+  Feature 1295: -0.5660
+  Feature 3289: 0.5632
+  Feature 731: -0.5577
+  Feature 621: 0.5567
+  Feature 822: -0.5498
+  Feature 3404: -0.5496
